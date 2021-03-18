@@ -5,7 +5,7 @@ distance=4
 speed1=25
 #bus stops at 10 places and spent 2 minutes
 stop_T=10*2
-time=1/speed1
+time=distance/speed1
 tem=time*60
 total_time=tem+stop_T
 print(f"the total time to reach university by bus{total_time}")
