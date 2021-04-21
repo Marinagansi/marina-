@@ -65,7 +65,6 @@ def button_equal():
 button_1=Button(cal, text="1",padx=39,pady=20,fg="white", bg="black",command=lambda:button_click(1))
 button_2=Button(cal, text="2",padx=39,pady=20,fg="white", bg="black", command=lambda:button_click(2))
 button_3=Button(cal, text="3",padx=39,pady=20, fg="white", bg="black",command=lambda:button_click(3))
-
 button_4=Button(cal, text="4",padx=39,pady=20, fg="white", bg="black",command=lambda:button_click(4))
 button_5=Button(cal, text="5",padx=39,pady=20,fg="white", bg="black",command=lambda:button_click(5))
 button_6=Button(cal, text="6",padx=39,pady=20,fg="white", bg="black", command=lambda:button_click(6))
