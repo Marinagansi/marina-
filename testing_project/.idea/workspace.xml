@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f69b1218-eea0-444e-b31e-f7c0e1b8aef5" name="Default Changelist" comment="">
+    <list default="true" id="2c70a58a-2cad-4e06-9319-429eb12230c1" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../ tkinterproject/admsgbx.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ tkinterproject/boarder.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ tkinterproject/chkbtn.py" afterDir="false" />
@@ -64,7 +64,6 @@
       <change beforePath="$PROJECT_DIR$/../calculator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../calculator/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../calculator/assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/../calculator/assignment.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eventanoucement/eas.py" beforeDir="false" afterPath="$PROJECT_DIR$/../eventanoucement/eas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../marina/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../marina/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../practiceq/try/home.py" beforeDir="false" afterPath="$PROJECT_DIR$/../practiceq/try/home.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +74,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1oEMEYZAQHzTRKo8o5jrGJEIrYd" />
+  <component name="ProjectId" id="1oEMQy4sBEDJspybMnRKqy6Foxh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -87,7 +86,7 @@
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="pythonProject1" />
+      <module name="marina" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -111,11 +110,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f69b1218-eea0-444e-b31e-f7c0e1b8aef5" name="Default Changelist" comment="" />
-      <created>1612847185438</created>
+      <changelist id="2c70a58a-2cad-4e06-9319-429eb12230c1" name="Default Changelist" comment="" />
+      <created>1612847283420</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1612847185438</updated>
+      <updated>1612847283420</updated>
     </task>
     <servers />
   </component>
@@ -129,17 +128,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
