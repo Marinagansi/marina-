@@ -1,72 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f69b1218-eea0-444e-b31e-f7c0e1b8aef5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ tkinterproject/admsgbx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ tkinterproject/boarder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ tkinterproject/chkbtn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ tkinterproject/drpdwn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ tkinterproject/drpdwn2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ tkinterproject/facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ tkinterproject/frame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ tkinterproject/imgslide.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ tkinterproject/insta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ tkinterproject/popupnewwindo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ tkinterproject/radiobt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ tkinterproject/scale.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ tkinterproject/selctfrompc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ tkinterproject/whatsapp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databas2/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databas2/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databas2/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databas2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databas2/venv/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databaseprj/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databaseprj/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databaseprj/databaeq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../databaseprj/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finalprojectticket/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../finalprojectticket/newproj.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hmsystem/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hmsystem/hlogo.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hmsystem/hm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hmsystem/log1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hmsystem/login.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hmsystem/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hmsystem/ph.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hmsystem/pharmacy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hmsystem/sl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hmsystem/sl1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../informationsystem/I/lg.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../informationsystem/I/med.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../informationsystem/I/s.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../informationsystem/hlogo.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../informationsystem/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceq/class/r/w.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceq/class/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceq/pythonProject1/fucntion/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practiceq/youtubepractice/cal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pygame/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pygame/bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pygame/facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pygame/foot-clan (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pygame/foot-clan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pygame/launch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pygame/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pygame/sb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pygame/sback.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pygame/spaceship.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ticketingsytstem/air.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ticketingsytstem/fly.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ticketingsytstem/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ticketingsytstem/system.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ tkinterproject/cal.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ tkinterproject/cal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../calculator/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../calculator/assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/../calculator/assignment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eventanoucement/eas.py" beforeDir="false" afterPath="$PROJECT_DIR$/../eventanoucement/eas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../marina/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../marina/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practiceq/try/home.py" beforeDir="false" afterPath="$PROJECT_DIR$/../practiceq/try/home.py" afterDir="false" />
-    </list>
+    <list default="true" id="f69b1218-eea0-444e-b31e-f7c0e1b8aef5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
