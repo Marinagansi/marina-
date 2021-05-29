@@ -53,6 +53,7 @@ def update():
     c = conn.cursor()
     record_id = delete_box.get()
     c.execute(""" UPDATE addresses SET
+    
          first_name = :first,
          last_name = :last,
          address = :address,
